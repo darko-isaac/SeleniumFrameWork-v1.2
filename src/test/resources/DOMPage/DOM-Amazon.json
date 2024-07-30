@@ -1,0 +1,10 @@
+{
+  "BusquedaText": {
+    "GetFielBy": "xpath",
+    "ValueToFind": "//input[@id='twotabsearchtextbox']"
+  },
+  "BtnBusqueda": {
+    "GetFielBy": "xpath",
+    "ValueToFind": "//input[@id='nav-search-submit-button']"
+  }
+}
